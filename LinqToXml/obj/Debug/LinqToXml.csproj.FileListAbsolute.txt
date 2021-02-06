@@ -1,0 +1,7 @@
+D:\UnityProject\UnityPractice\TouHouCard\LinqToXml\LinqToXml\bin\Debug\LinqToXml.exe.config
+D:\UnityProject\UnityPractice\TouHouCard\LinqToXml\LinqToXml\bin\Debug\LinqToXml.exe
+D:\UnityProject\UnityPractice\TouHouCard\LinqToXml\LinqToXml\bin\Debug\LinqToXml.pdb
+D:\UnityProject\UnityPractice\TouHouCard\LinqToXml\LinqToXml\obj\Debug\LinqToXml.csprojAssemblyReference.cache
+D:\UnityProject\UnityPractice\TouHouCard\LinqToXml\LinqToXml\obj\Debug\LinqToXml.csproj.CoreCompileInputs.cache
+D:\UnityProject\UnityPractice\TouHouCard\LinqToXml\LinqToXml\obj\Debug\LinqToXml.exe
+D:\UnityProject\UnityPractice\TouHouCard\LinqToXml\LinqToXml\obj\Debug\LinqToXml.pdb
